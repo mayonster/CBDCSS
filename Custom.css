@@ -19,9 +19,9 @@ background-color: transparent!important;}
 .button__4f306>.contents-3ca1mk>svg {color: var(--hover-color); opacity: .7 !important;}
 /*.channelName-3KPsGw, .subtitle_bba2b7 {color: var(--hover-color);}*/
 .wrapper__7bcde .name__8d1ec {color: var(--hover-color);}
-.wrapper__7bcde:active .name__8d1ec {color: black;}
+.wrapper__7bcde:active .name__8d1ec {color: #061a44;}
 .nameAndDecorators_cfd1ff {color: var(--hover-color) !important;}
-.premiumTrialAcknowledgedBadge-2QxbU_ {background-color: var(--hover-color) !important; color:black !important; }
+.premiumTrialAcknowledgedBadge-2QxbU_ {background-color: var(--hover-color) !important; color:#061a44 !important; }
 .avatar__7bd22 {color: var(--hover-color) !important;}
 /*.wrapper_d281dd:hover .childWrapper__01b9c, .wrapper_d281dd.selected_f5ec8e .childWrapper__01b9c {background-color:var(--svg-bcolor);}*/
 /*.toolbar-1t6TWx .iconWrapper-2OrFZ1 .icon-22AiRD {color:var(--main-color);} 
@@ -61,7 +61,7 @@ background-color: transparent!important;}
 .typeWindows__5fa63>.winButton__88672:hover {background:linear-gradient(to right, var(--hover-color) 10%, transparent);opacity:.5;}
 .circleIconButton-jET_ig:hover, .circleIconButton-jET_ig.selected-ugP_am { background: --main-color; color: white;}
 .circleIconButton-jET_ig {background: rgba(0,0,0,0.3); color: var(--main-color);}
-.buttonContainer__8b164 .emojiButton__8ff6a .sprite__294b3 {background-image: url(https://mysticentity.github.io/CustomBetterDiscordCSS/greenEmotesv2.png); filter: grayscale(0%)!important; background-position: 50%; background-repeat: no-repeat; width: 22px; height: 22px; display: block !important;}
+.buttonContainer__8b164 .emojiButton__8ff6a .sprite__294b3 {background-image: url(https://i.imgur.com/2bm84kg.png); filter: grayscale(0%)!important; background-position: 50%; background-repeat: no-repeat; width: 22px; height: 22px; display: block !important;}
 .wrapper-1ucjTd.modeUnread-1zpFdA .content-3at_AU .name-3_Dsmg, .wrapper-1ucjTd.modeUnread-1zpFdA .content-3at_AU .icon-1_QxNX{text-shadow: 0 0 0px !important; filter: none;}
 .theme-dark .headerNormal-T_seeN, /*A border for user profiles, popouts*/ .theme-dark .topSectionNormal-2-vo2m {background-color: rgba(0,0,0,0.4);border: 2px solid var(--main-color);}
 .headerTop-3C2Zn0{background-color: rgba(0,0,0,0.4);border-left: 2px solid var(--main-color);border-right: 2px solid var(--main-color);border-top: 2px solid var(--main-color);border-bottom: 2px solid var(--main-color);}
@@ -96,7 +96,7 @@ background-color: transparent!important;}
 }
 
 .mainCard__8a660 {
-    background-color: black;
+    background-color: #061a44;
     border-radius: 12px;
 }
 
@@ -317,7 +317,7 @@ color: var(--main-color)!important;
 }
 
 .input__74754 {
-    background: black;
+    background: #061a44;
 }
 
 .container__7712a {
@@ -328,11 +328,11 @@ color: var(--main-color)!important;
     background-color: var(--background-modifier-selected);}
 
     .input_d5574d {
-    background-color: black;
+    background-color: #061a44;
 }
 
 .addFriendInputWrapper__4bf8e {
-    background-color: black;
+    background-color: #061a44;
     box-shadow: 0 0 0 2px var(--main-color);
     border: none;
 }
@@ -341,12 +341,12 @@ color: var(--main-color)!important;
 }
 
 .actionButtons_b58cbb {
-background-color: black;
+background-color: #061a44;
 }
 
 .container_d667ff {
     border-color: rgba(0,0,0,0);
-    background-color: black;
+    background-color: #061a44;
 }
 
 .button__66e8c.buttonColor_a6eb73.buttonActive__407a7 {
@@ -369,7 +369,7 @@ background-color: black;
 }
 
 .panels__58331>:first-child {
-    background-color: black;
+    background-color: #061a44;
 }
 
 .searchBar_e4ea2a .searchBarComponent__22760 {
@@ -377,7 +377,7 @@ background-color: black;
 }
 
 .container_d667ff {
-    background-color:black;
+    background-color:#061a44;
 }
 
 .button__66e8c.buttonColor_a6eb73.buttonActive__407a7:hover {
@@ -392,12 +392,12 @@ background-color: black;
 }
 
 .panelBanner__90b8a {
-  background-color: black!important;
+  background-color: #061a44!important;
 ;
 }
 
 .userPanelOverlayBackground__34fc8, .userProfileModalOverlayBackground__52d65 {
-    background-color: black!important;
+    background-color: #061a44!important;
 }
 
 .defaultColor__87d87 {
