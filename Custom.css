@@ -81,18 +81,18 @@ background-color: transparent!important;}
 
 @media only screen and (max-height: 900px)
 <style> .medium__408de, .sizeMedium__357da {
-    background-color: black;
+    background-color: #061a44;
 }
 
 .footer__89240 {
-    background-color: black;
+    background-color: #061a44;
 }
 
 .content_bbe5dc, .header_a92cdd {display:none;}
 .list-3FIpnh>div:first-child {
     padding-left: 24px;
     padding-right: 24px;
-    background-color: black;
+    background-color: #061a44;
 }
 
 .mainCard__8a660 {
@@ -101,7 +101,7 @@ background-color: transparent!important;}
 }
 
 .tag-19iIl1, .tagsButton-4pwOKH, .pill_f055c3.small_d2f964 {
-    background-color: black;
+    background-color: #061a44;
 }
 
 .profilePanel-2PWEok {
@@ -109,26 +109,26 @@ display: none;
 }
 
 .theme-dark .container_ca50b9 {
-    background-color: black;
+    background-color: #061a44;
 }
 
 .withTagAsButton_cc125f, .withTagless__98b7d {
-    background-color: black;}
+    background-color: #061a44;}
 
     .form__13a2c {
-background-color: black;}
+background-color: #061a44;}
 
 .container_ca50b9 .title__10613 {
     color: var(--main-color);
 }
 
 .button__66e8c.buttonColor_a6eb73, .button__66e8c .buttonColor_a6eb73 {
-    background-color: black;
+    background-color: #061a44;
     color: var(--main-color);
 }
 
 .search_ac353c .searchBar_e0c60b, .libraryFilter_c21584, .browseSearch-e9jF-f {
-    background-color: black;
+    background-color: #061a44;
 }
 .bd-meta {
   color: var(--hover-color)!important;}
@@ -191,27 +191,27 @@ color: var(--main-color);
 }
 
 .membersWrap__90226 {
-    background: black;
+    background: #061a44;
 }
 .theme-dark .scroller__3d071 {
-    background: black;
+    background: #061a44;
 }
 
 .base__3e6af .container__11d72 {
-    background: black;
+    background: #061a44;
 }
 
 .scroller__1f96e {
-    background-color: black;
+    background-color: #061a44;
 }
-
+/*
 @font-face {
   font-family: 'Terminal';
   font-style: normal;
   font-weight: 400;
   src: url(https://mysticentity.github.io/CustomBetterDiscordCSS/vgaoem.fon) format('opentype');
   }
-
+*/
 .headerWrapper-3iTlIT {
   background-color: var(--user-popout-overlay);
   height: var(--profile-popout-picture-size);
